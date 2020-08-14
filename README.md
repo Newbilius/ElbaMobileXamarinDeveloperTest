@@ -19,6 +19,7 @@
 Контакт имеет следующий вид
 - id (string) — ID контакта
 - name (string) — Имя человека
+- phone (string) - Номер телефона человека
 - height (float) — Рост человека
 - biography (string) — Биография человека
 - temperament (enum) — Темперамент человека (melancholic, phlegmatic, sanguine, choleric)
